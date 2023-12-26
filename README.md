@@ -21,17 +21,19 @@ Jaemin Jeong, Wonhyuck Yoon, Jeong-Gun Lee, Dongyoung Kim, Yunhee Woo, Dong-Kyu 
   
 ### Inter-Epoch Learning
 - Transformer Encoder (NIPS 2017) [[PDF]](https://papers.neurips.cc/paper/7181-attention-is-all-you-need.pdf)
-<p align="center"><img width="762" alt="Screenshot 2023-11-07 at 11 13 52 AM" src="https://github.com/sarahhyojin/SwinSleepNet/assets/75148383/f971db10-34c2-4cf4-8efa-d3ca525f926a"></p>
+![Inter-Epoch-Learning](https://github.com/sarahhyojin/interpretable-sleep-staging/assets/75148383/f2402300-aa1e-4fa7-ba88-b886b464b8b8)
+
 
 ## Interpretability
 ### Inter-Epoch Interpretability
 - Adopted Transformer Interpretability Beyond Attention Visualization (CVPR 2021) [[Github]](https://github.com/hila-chefer/Transformer-Explainability)
-- Aggregated 10,000 accurate predictions per class
-<p align="center"><img width="760" alt="Screenshot 2023-11-07 at 10 49 10 AM" src="https://github.com/sarahhyojin/SwinSleepNet/assets/75148383/481b2886-c27f-462f-80f6-f3b952da448e"></p>
-
-- Individual predictions
-<p align="center"><img width="695" alt="Screenshot 2023-11-07 at 11 43 50 AM" src="https://github.com/sarahhyojin/SwinSleepNet/assets/75148383/0412a452-dab0-4879-b639-f48c12516d47"></p>
+- Baseline (Eigen-CAM) : Jaemin Jeong, Wonhyuck Yoon, Jeong-Gun Lee, Dongyoung Kim, Yunhee Woo, Dong-Kyu Kim, Hyun-Woo Shin, __Standardized image-based polysomnography database and deep learning algorithm for sleep-stage classification__, *Sleep*, 2023;, zsad242, https://doi.org/10.1093/sleep/zsad242
+![Intra-Epoch-Explainability](https://github.com/sarahhyojin/interpretable-sleep-staging/assets/75148383/180a3767-242b-49c4-b7b7-f6e148a6cf76)
 
 
 ### Intra-Epoch Interpretability
-<p align="center"><img width="825" alt="Screenshot 2023-11-07 at 11 44 58 AM" src="https://github.com/sarahhyojin/SwinSleepNet/assets/75148383/e8a978e3-4ac9-483f-9acb-cc0e0f547080"></p>
+- Adopted same method as above.
+- Using sliding window scheme and aggregated 15 softmax values to predict one Epoch.
+![Inter-Epoch-Interpretability-4](https://github.com/sarahhyojin/interpretable-sleep-staging/assets/75148383/d154bf38-2711-4497-8ed4-3684ba60a79a)
+![Inter-Epoch-Interpretability-2](https://github.com/sarahhyojin/interpretable-sleep-staging/assets/75148383/a03148db-89e5-481c-82de-bd751515f872)
+![Inter-Epoch-Interpretability-1](https://github.com/sarahhyojin/interpretable-sleep-staging/assets/75148383/a7d0e031-4b98-449f-abd8-230937d955ef)
