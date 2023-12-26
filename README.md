@@ -9,6 +9,8 @@ Clinicians "See" the Waverforms: A Computer Vision Approach for Interpretable Sl
 ## Dataset
 Jaemin Jeong, Wonhyuck Yoon, Jeong-Gun Lee, Dongyoung Kim, Yunhee Woo, Dong-Kyu Kim, Hyun-Woo Shin, __Standardized image-based polysomnography database and deep learning algorithm for sleep-stage classification__, *Sleep*, 2023;, zsad242, https://doi.org/10.1093/sleep/zsad242
 - [SNUH Dataset](https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=&topMenu=&aihubDataSe=realm&dataSetSn=210): Only Avaliable at Restricted Area
+![Dataset](https://github.com/sarahhyojin/interpretable-sleep-staging/assets/75148383/8e2e9e00-4cb1-42be-a605-965eb02f8d0b)
+
 
 ## Model Architecture
 ### Intra-Epoch Learning
