@@ -15,7 +15,8 @@ Jaemin Jeong, Wonhyuck Yoon, Jeong-Gun Lee, Dongyoung Kim, Yunhee Woo, Dong-Kyu 
 ## Model Architecture
 ### Intra-Epoch Learning
 - SwinTransformer (ICCV 2021) [[PDF]](https://arxiv.org/abs/2103.14030)
-<p align="center"><img width="748" alt="Screenshot 2023-11-07 at 11 13 35 AM" src="https://github.com/sarahhyojin/SwinSleepNet/assets/75148383/b190ac8b-14a4-4c89-9938-7da0839329e9"></p>
+![Intra-Epoch-Learning](https://github.com/sarahhyojin/interpretable-sleep-staging/assets/75148383/78383d74-7ad5-4968-b1b5-f3c1a417e222)
+
 
   
 ### Inter-Epoch Learning
