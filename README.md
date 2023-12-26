@@ -2,7 +2,9 @@
 Clinicians "See" the Waverforms: A Computer Vision Approach for Interpretable Sleep-staging
 
 ## Framework Overview
-<p align="center"><img width="727" alt="Screenshot 2023-11-07 at 10 20 43 AM" src="https://github.com/sarahhyojin/SwinSleepNet/assets/75148383/dd649c73-2ff2-4fdf-896b-ee4c8c4e8af4"></p>
+![Framework_Overview](https://github.com/sarahhyojin/interpretable-sleep-staging/assets/75148383/ad4a3876-e872-4a42-b6f4-50ef755af149)
+
+
 
 ## Dataset
 Jaemin Jeong, Wonhyuck Yoon, Jeong-Gun Lee, Dongyoung Kim, Yunhee Woo, Dong-Kyu Kim, Hyun-Woo Shin, __Standardized image-based polysomnography database and deep learning algorithm for sleep-stage classification__, *Sleep*, 2023;, zsad242, https://doi.org/10.1093/sleep/zsad242
