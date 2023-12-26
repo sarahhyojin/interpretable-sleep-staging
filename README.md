@@ -14,7 +14,7 @@ Jaemin Jeong, Wonhyuck Yoon, Jeong-Gun Lee, Dongyoung Kim, Yunhee Woo, Dong-Kyu 
 
 ## Model Architecture
 ### Intra-Epoch Learning
-- SwinTransformer (ICCV 2021) [[PDF]](https://arxiv.org/abs/2103.14030)
+- Vision Transformer (ICLR 2021) [[PDF]](https://arxiv.org/pdf/2010.11929.pdf)
 ![Intra-Epoch-Learning](https://github.com/sarahhyojin/interpretable-sleep-staging/assets/75148383/78383d74-7ad5-4968-b1b5-f3c1a417e222)
 
 
